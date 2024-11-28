@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0043-multiply-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0434-number-of-segments-in-a-string) |
 ## Simulation
 |  |
 | ------- |
