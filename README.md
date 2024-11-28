@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0043-multiply-strings) |
 | [2491-smallest-even-multiple](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
 |  |
@@ -34,4 +35,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
