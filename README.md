@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0009-palindrome-number) |
 | [2491-smallest-even-multiple](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
 |  |
