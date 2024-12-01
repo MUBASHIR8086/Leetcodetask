@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0169-majority-element) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1603-running-sum-of-1d-array) |
+| [2058-concatenation-of-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0043-multiply-strings) |
+| [2058-concatenation-of-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
