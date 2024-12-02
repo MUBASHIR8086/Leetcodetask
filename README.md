@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0151-reverse-words-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0151-reverse-words-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0434-number-of-segments-in-a-string) |
 ## Simulation
 |  |
