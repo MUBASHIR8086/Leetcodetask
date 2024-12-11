@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0066-plus-one) |
+| [0137-single-number-ii](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
