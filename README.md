@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2048-build-array-from-permutation) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2491-smallest-even-multiple) |
@@ -50,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -80,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -88,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1603-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
