@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0169-majority-element) |
+| [0260-single-number-iii](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1603-running-sum-of-1d-array) |
@@ -96,5 +97,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
