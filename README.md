@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0179-largest-number) |
 | [0434-number-of-segments-in-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0434-number-of-segments-in-a-string) |
+| [3379-score-of-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
