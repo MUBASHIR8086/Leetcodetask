@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1524-string-matching-in-an-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2058-concatenation-of-array) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0434-number-of-segments-in-a-string) |
 | [0742-to-lower-case](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0742-to-lower-case) |
+| [1524-string-matching-in-an-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1524-string-matching-in-an-array) |
 | [3379-score-of-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
@@ -119,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0179-largest-number) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
