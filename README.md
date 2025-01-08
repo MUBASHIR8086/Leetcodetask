@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2058-concatenation-of-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0434-number-of-segments-in-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0434-number-of-segments-in-a-string) |
 | [0742-to-lower-case](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0742-to-lower-case) |
 | [1524-string-matching-in-an-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
@@ -125,4 +127,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
