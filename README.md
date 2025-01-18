@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2491-smallest-even-multiple) |
+| [3567-convert-date-to-binary](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3567-convert-date-to-binary) |
 ## Number Theory
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3379-score-of-a-string) |
+| [3567-convert-date-to-binary](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3567-convert-date-to-binary) |
 ## Simulation
 |  |
 | ------- |
