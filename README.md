@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0151-reverse-words-in-a-string) |
+| [2128-reverse-prefix-of-word](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0434-number-of-segments-in-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0434-number-of-segments-in-a-string) |
 | [0742-to-lower-case](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0742-to-lower-case) |
 | [1524-string-matching-in-an-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1524-string-matching-in-an-array) |
+| [2128-reverse-prefix-of-word](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2128-reverse-prefix-of-word) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3567-convert-date-to-binary) |
@@ -145,4 +147,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
