@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
