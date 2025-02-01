@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0412-fizz-buzz) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 ## String
 |  |
