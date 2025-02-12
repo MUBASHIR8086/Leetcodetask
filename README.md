@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2048-build-array-from-permutation](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2058-concatenation-of-array) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3429-special-array-i) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 | [1364-tuple-with-same-product](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting
 |  |
 | ------- |
@@ -186,4 +189,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0206-reverse-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
