@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2058-concatenation-of-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2058-concatenation-of-array) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,4 +195,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
