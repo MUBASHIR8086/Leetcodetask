@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 | [1364-tuple-with-same-product](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/1364-tuple-with-same-product) |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 | [1364-tuple-with-same-product](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting
