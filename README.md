@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0507-perfect-number) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 | [2659-number-of-even-and-odd-bits](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2659-number-of-even-and-odd-bits) |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
