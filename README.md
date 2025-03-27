@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 | [1364-tuple-with-same-product](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/1364-tuple-with-same-product) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0434-number-of-segments-in-a-string) |
