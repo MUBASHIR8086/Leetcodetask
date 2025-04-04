@@ -1,13 +1,15 @@
 class Solution {
   int majorityElement(List<int> nums) {
-    int counted =0,continu=0;
-    for(int num in nums){
-        if(counted == 0){
-            continu=num;
-        }
-        counted +=(num==continu) ? 1:-1;
+ int count = 0;
+  int number= 0;
+
+  for (var num in nums) {
+    if (count == 0) {
+      number = num;
     }
-    return continu;
-    
+    count += (num == number) ? 1 : -1;
+  }
+
+  return number;
   }
 }
