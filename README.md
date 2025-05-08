@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1364-tuple-with-same-product](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1364-tuple-with-same-product](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0349-intersection-of-two-arrays) |
 | [2128-reverse-prefix-of-word](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -94,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -152,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0349-intersection-of-two-arrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Counting
 |  |
