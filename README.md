@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0088-merge-sorted-array) |
@@ -232,4 +233,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0196-delete-duplicate-emails) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
