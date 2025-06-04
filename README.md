@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0349-intersection-of-two-arrays) |
 | [2128-reverse-prefix-of-word](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2128-reverse-prefix-of-word) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3567-convert-date-to-binary) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Simulation
 |  |
 | ------- |
@@ -237,4 +239,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0039-combination-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
