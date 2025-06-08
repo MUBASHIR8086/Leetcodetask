@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0386-lexicographical-numbers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -243,4 +244,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
