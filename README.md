@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2048-build-array-from-permutation](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2058-concatenation-of-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0349-intersection-of-two-arrays) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## String
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0179-largest-number) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## String Matching
 |  |
 | ------- |
