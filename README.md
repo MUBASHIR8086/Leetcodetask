@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2383-add-two-integers](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2491-smallest-even-multiple) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3567-convert-date-to-binary](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3567-convert-date-to-binary) |
 ## Number Theory
 |  |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0179-largest-number) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## String Matching
 |  |
