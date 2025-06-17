@@ -1,8 +1,17 @@
 class Solution {
   int removeDuplicates(List<int> nums) {
-    Set<int> set=nums.toSet();
-    nums.clear();
-    nums.addAll(set);
-    return set.length;
+  if (nums.isEmpty) return 0;
+
+  int i = 0; // points to last unique element
+
+  for (int j = 1; j < nums.length; j++) {
+    if (nums[j] != nums[i]) {
+      i++;
+      nums[i] = nums[j];
+    }
   }
+
+  return i + 1;
+}
+
 }
