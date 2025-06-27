@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0035-search-insert-position) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0027-remove-element) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0179-largest-number) |
