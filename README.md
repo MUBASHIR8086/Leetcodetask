@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3429-special-array-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Depth-First Search
 |  |
 | ------- |
