@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3429-special-array-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0070-climbing-stairs) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Memoization
 |  |
 | ------- |
