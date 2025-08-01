@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0179-largest-number) |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0118-pascals-triangle) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Memoization
 |  |
