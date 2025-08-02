@@ -294,9 +294,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0112-path-sum) |
 | [0386-lexicographical-numbers](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0386-lexicographical-numbers) |
 ## Sliding Window
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0594-longest-harmonious-subsequence) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
