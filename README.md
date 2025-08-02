@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0027-remove-element) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -223,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0179-largest-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
