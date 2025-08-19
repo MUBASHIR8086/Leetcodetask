@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2479-meeting-rooms-iii) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2383-add-two-integers](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2383-add-two-integers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/2491-smallest-even-multiple) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3567-convert-date-to-binary](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3567-convert-date-to-binary) |
