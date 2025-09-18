@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2479-meeting-rooms-iii) |
+| [3678-design-task-manager](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3678-design-task-manager) |
 ## Math
 |  |
 | ------- |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2479-meeting-rooms-iii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3678-design-task-manager](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3678-design-task-manager) |
 ## Database
 |  |
 | ------- |
@@ -325,9 +327,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [3678-design-task-manager](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0498-diagonal-traverse) |
+## Design
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
