@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3791-fruits-into-baskets-iii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/2479-meeting-rooms-iii) |
 | [3678-design-task-manager](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3567-convert-date-to-binary](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3797-design-spreadsheet](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -333,8 +336,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0498-diagonal-traverse) |
+| [3797-design-spreadsheet](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3797-design-spreadsheet) |
 ## Design
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
