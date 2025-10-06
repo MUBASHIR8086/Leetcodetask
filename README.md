@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0041-first-missing-positive) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0013-roman-to-integer) |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0594-longest-harmonious-subsequence) |
 ## Tree
 |  |
