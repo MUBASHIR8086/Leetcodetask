@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3429-special-array-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/1603-running-sum-of-1d-array) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Bit Manipulation
 |  |
 | ------- |
