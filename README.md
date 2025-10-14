@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3429-special-array-i](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3429-special-array-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3791-fruits-into-baskets-iii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3791-fruits-into-baskets-iii) |
