@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/MUBASHIR555-sof/Leetcodetask/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0118-pascals-triangle) |
+| [0799-champagne-tower](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/0799-champagne-tower) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/MUBASHIR8086/Leetcodetask/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Memoization
 |  |
